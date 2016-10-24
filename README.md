@@ -2,7 +2,7 @@
 From json to gantt char. (Python)
 
 ## How it works
-- Simple wrote your json file like this:
+- Simple write your json file like this:
 
 ```javascript
 {
