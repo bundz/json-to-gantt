@@ -1,0 +1,21 @@
+{
+    "title": "I love Beatles!",
+    "label": "Some number",
+    "legend": [
+        {"color": "yellow", "text": "Yellow!"},
+        {"color": "blue", "text": "Blue!"},
+        {"color": "green", "text": "Green!"},
+        {"color": "purple", "text": "Purple!"},
+        {"color": "red", "text": "Red!"}
+    ],
+    "rows": ["John", "Paul", "George", "Ringo"],
+    "columns": [0,1,2,3,4,5,6,7,8],
+    "bars": [
+        {"row": "John", "from": 0, "to": 4, "color": "yellow"},
+        {"row": "John", "from": 4, "to": 8, "color": "purple"},
+        {"row": "Paul", "from": 0, "to": 8, "color": "blue"},
+        {"row": "George", "from": 0, "to": 8, "color": "green"},
+        {"row": "Ringo", "from": 0, "to": 8, "color": "red"}
+    ],
+    "bar_height": 0.5
+}
