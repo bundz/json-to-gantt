@@ -27,10 +27,11 @@ From json to gantt char. (Python)
     "bar_height": 0.5
 }
 ```
-execute this command:
+- execute this command:
+
 > ganttify [your json path]
 
-and get this gantt chart:
+- and get this gantt chart:
 ![alt tag](https://s21.postimg.org/4s3lqec6v/figure_1.png)
 
 YAAAAY!
